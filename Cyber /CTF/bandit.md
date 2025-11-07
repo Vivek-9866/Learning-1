@@ -17,7 +17,10 @@ ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
 - Cat-To read the content of the file type.
 - Find- it tell the what are there in that.
 
-- connect -```ssh bandit1@bandit.labs.overthewire.org -p 2220```
+- connect -
+ ```
+ ssh bandit1@bandit.labs.overthewire.org -p 2220
+```
 - <img width="1447" height="305" alt="image" src="https://github.com/user-attachments/assets/6e661437-b4ce-4077-a39c-b47a54a16ca9" />
 
 
