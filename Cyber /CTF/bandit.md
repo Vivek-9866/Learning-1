@@ -1,4 +1,8 @@
 # **BANDIT LEVELS**
+# Recommendation:
+-"Try to solve the level on your own. It is the only true way to learn. Use the lesson learnt section for each level to understand the command that would be useful to complete that level. If you are still stuck, go through the walk-through for the level".
+
+
  ##level-0
 - username - bandit0
 - password - bandit0
@@ -43,12 +47,87 @@ ssh bandit2@bandit.labs.overthewire.org -p 2220
 - username - bandit3
 - password
    ```
+   MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
    ```
 #Commands:
-- the file name is- ‘ -’.
-- "."=type in './-'
+- The name of the file is ‘spaces in this filename’. When you try to cat out the filename as is, since there are spaces in the name of the file, the command assumes each word separated by space to be a separate file.
+- du - estimate file space usage.
+
+-  ##level-4
+- username - bandit4
+- password
+   ```
+   2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
+   ```
+
 
 - connect -
 ```
-ssh bandit3@bandit.labs.overthewire.org -p 2220
+ssh bandit4@bandit.labs.overthewire.org -p 2220
+```
+
+ ##level-5
+- username - bandit5
+- password
+   ```
+   4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
+   ```
+#commands:
+-ls -la
+-cd inhere/
+-ls
+-file ./*
+-cat ./-file07
+-ssh bandit5@localhost
+
+- - connect -
+```
+ssh bandit5@bandit.labs.overthewire.org -p 2220
+```
+
+-  ##level-6
+- username - bandit6
+- password
+   ```
+   HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
+   ```
+#Commands: Type one by one
+-ls
+-cd inhere/
+-ls
+-find . -size 1033c
+-cat ./maybehere07/.file2
+-ssh bandit6@localhost
+
+- - connect -
+```
+ssh bandit6@bandit.labs.overthewire.org -p 2220
+```
+
+-  ##level-7
+- username - bandit7
+- password
+   ```
+   
+   ```
+#Commands:
+- The name of the file is ‘spaces in this filename’. When you try to cat out the filename as is, since there are spaces in the name of the file, the command assumes each word separated by space to be a separate file.
+- du - estimate file space usage.
+- - connect -
+```
+ssh bandit7@bandit.labs.overthewire.org -p 2220
+```
+
+-  ##level-8
+- username - bandit8
+- password
+   ```
+   
+   ```
+#Commands:
+- The name of the file is ‘spaces in this filename’. When you try to cat out the filename as is, since there are spaces in the name of the file, the command assumes each word separated by space to be a separate file.
+- du - estimate file space usage.
+- - connect -
+```
+ssh bandit8@bandit.labs.overthewire.org -p 2220
 ```
