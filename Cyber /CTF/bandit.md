@@ -84,8 +84,7 @@ ssh bandit4@bandit.labs.overthewire.org -p 2220
 ```
 ssh bandit5@bandit.labs.overthewire.org -p 2220
 ```
-
--  ##level-6
+ ##level-6
 - username - bandit6
 - password
    ```
@@ -104,7 +103,7 @@ ssh bandit5@bandit.labs.overthewire.org -p 2220
 ssh bandit6@bandit.labs.overthewire.org -p 2220
 ```
 
--  ##level-7
+ ##level-7
 - username - bandit7
 - password
    ```
@@ -118,8 +117,7 @@ ssh bandit6@bandit.labs.overthewire.org -p 2220
 ```
 ssh bandit7@bandit.labs.overthewire.org -p 2220
 ```
-
--  ##level-8
+ ##level-8
 - username - bandit8
 - password
    ```
@@ -135,7 +133,7 @@ ssh bandit7@bandit.labs.overthewire.org -p 2220
 ssh bandit8@bandit.labs.overthewire.org -p 2220
 ```
 
--  ##level-9
+  ##level-9
 - username - bandit9
 - password
    ```
@@ -148,7 +146,7 @@ ssh bandit8@bandit.labs.overthewire.org -p 2220
 ```
 ssh bandit9@bandit.labs.overthewire.org -p 2220
 ```
--  ##level-10
+  ##level-10
 - username - bandit10
 - password
    ```
@@ -162,7 +160,7 @@ ssh bandit9@bandit.labs.overthewire.org -p 2220
 ```
 ssh bandit10@bandit.labs.overthewire.org -p 2220
 ```
--  ##level-11
+  ##level-11
 - username - bandit8
 - password
    ```
@@ -176,7 +174,7 @@ ssh bandit10@bandit.labs.overthewire.org -p 2220
 ```
 ssh bandit11@bandit.labs.overthewire.org -p 2220
 ```
--  ##level-12
+  ##level-12
 - username - bandit12
 - password
    ```
@@ -191,21 +189,29 @@ ssh bandit11@bandit.labs.overthewire.org -p 2220
 ```
 ssh bandit12@bandit.labs.overthewire.org -p 2220
 ```
--  ##level-13
+  ##level-13
 - username - bandit13
 - password
    ```
-   
+   FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn
    ```
 #Commands:
-- 
+- ls
+- cd /tmp/inigo12
+- ls
+- file data.txt
+- xxd -1 data.txt data1
+- cat data.txt
+- xxd -r data.txt > data01
+- ls
+- cat data09
 - - connect -
 ```
 ssh bandit13@bandit.labs.overthewire.org -p 2220
 ```
 
--  ##level-1
-- username - bandit1
+-  ##level-14
+- username - bandit14
 - password
    ```
    
@@ -214,7 +220,7 @@ ssh bandit13@bandit.labs.overthewire.org -p 2220
 - 
 - - connect -
 ```
-ssh bandit13@bandit.labs.overthewire.org -p 2220
+ssh bandit14@bandit.labs.overthewire.org -p 2220
 ```
 
 -  ##level-1
