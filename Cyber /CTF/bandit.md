@@ -65,7 +65,7 @@ ssh bandit2@bandit.labs.overthewire.org -p 2220
 ssh bandit4@bandit.labs.overthewire.org -p 2220
 ```
 
- ##level-5
+ ## level-5
 - username - bandit5
 - password
    ```
