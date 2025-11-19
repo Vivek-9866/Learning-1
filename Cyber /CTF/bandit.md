@@ -211,9 +211,9 @@ ssh bandit13@bandit.labs.overthewire.org -p 2220
 
 -  ## level-14
 - username - bandit14
-- password
+- password -
    ```
-   
+   MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS
    ```
 ## Commands:
 - 
